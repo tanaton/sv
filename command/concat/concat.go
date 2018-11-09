@@ -11,7 +11,7 @@ import (
 	"sort"
 	"strings"
 
-	"../../command"
+	"github.com/tanaton/sv/command"
 )
 
 type ConcatArg struct {

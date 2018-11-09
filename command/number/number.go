@@ -5,7 +5,7 @@ import (
 	"flag"
 	"fmt"
 
-	"../../command"
+	"github.com/tanaton/sv/command"
 )
 
 type NumberArg struct {

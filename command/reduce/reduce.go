@@ -7,7 +7,7 @@ import (
 	"strconv"
 	"strings"
 
-	"../../command"
+	"github.com/tanaton/sv/command"
 )
 
 type ReduceArg struct {

@@ -3,11 +3,11 @@ package main
 import (
 	"os"
 
-	"./command"
-	"./command/concat"
-	"./command/extract"
-	"./command/number"
-	"./command/reduce"
+	"github.com/tanaton/sv/command"
+	"github.com/tanaton/sv/command/concat"
+	"github.com/tanaton/sv/command/extract"
+	"github.com/tanaton/sv/command/number"
+	"github.com/tanaton/sv/command/reduce"
 )
 
 func main() {

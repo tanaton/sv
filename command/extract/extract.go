@@ -6,7 +6,7 @@ import (
 	"fmt"
 	"strings"
 
-	"../../command"
+	"github.com/tanaton/sv/command"
 )
 
 type ExtractArg struct {
